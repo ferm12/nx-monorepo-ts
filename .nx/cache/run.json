@@ -1,0 +1,9 @@
+{
+  "run": {
+    "command": "nx serve hacker-mart",
+    "startTime": "2026-09-02T00:35:09.505Z",
+    "endTime": "2026-09-02T00:35:38.945Z",
+    "inner": false
+  },
+  "tasks": []
+}

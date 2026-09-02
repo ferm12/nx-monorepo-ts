@@ -1,0 +1,61 @@
+{
+  "extends": "./tsconfig.base.json",
+  "compileOnSave": false,
+  "files": [],
+  "references": [
+    {
+      "path": "./apps/todos"
+    },
+    {
+      "path": "./apps/lazy-load"
+    },
+    {
+      "path": "./apps/filteredSearch"
+    },
+    {
+      "path": "./apps/filterSearch"
+    },
+    {
+      "path": "./apps/filteredSearchDebouncer"
+    },
+    {
+      "path": "./node-middleware-e2e"
+    },
+    {
+      "path": "./node-middleware"
+    },
+    {
+      "path": "./apps/otp"
+    },
+    {
+      "path": "./apps/hacker-mart"
+    },
+    {
+      "path": "./apps/timer"
+    },
+    {
+      "path": "./apps/start-rating"
+    },
+    {
+      "path": "./apps/closures"
+    },
+    {
+      "path": "./apps/football"
+    },
+    {
+      "path": "./apps/calculator"
+    },
+    {
+      "path": "./apps/counter"
+    },
+    {
+      "path": "./apps/users"
+    },
+    {
+      "path": "./apps/beers"
+    },
+    {
+      "path": "./apps/accordion"
+    }
+  ]
+}
