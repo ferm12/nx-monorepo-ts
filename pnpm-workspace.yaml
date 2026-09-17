@@ -1,0 +1,4 @@
+packages:
+  - 'apps/*'
+  - 'node-middleware'
+  - 'node-middleware-e2e'

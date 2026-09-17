@@ -67,10 +67,5 @@
     "typescript-eslint": "^8.29.0",
     "vite": "^6.0.0",
     "vitest": "^3.0.0"
-  },
-  "workspaces": [
-    "apps/*",
-    "node-middleware",
-    "node-middleware-e2e"
-  ]
+  }
 }
