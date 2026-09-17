@@ -190,6 +190,42 @@ importers:
         specifier: ^3.0.0
         version: 3.2.7(@types/node@20.19.43)(@vitest/ui@3.2.7)(jiti@2.4.2)(jsdom@22.1.0)(terser@5.51.2)(yaml@2.9.1)
 
+  apps/accordion: {}
+
+  apps/beers: {}
+
+  apps/calculator: {}
+
+  apps/closures: {}
+
+  apps/counter: {}
+
+  apps/filterSearch: {}
+
+  apps/filteredSearch: {}
+
+  apps/filteredSearchDebouncer: {}
+
+  apps/football: {}
+
+  apps/hacker-mart: {}
+
+  apps/lazy-load: {}
+
+  apps/otp: {}
+
+  apps/start-rating: {}
+
+  apps/timer: {}
+
+  apps/todos: {}
+
+  apps/users: {}
+
+  node-middleware: {}
+
+  node-middleware-e2e: {}
+
 packages:
 
   '@ampproject/remapping@2.3.0':
