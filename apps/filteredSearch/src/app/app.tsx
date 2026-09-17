@@ -1,5 +1,7 @@
 import { useState, useEffect } from 'react';
 import styled from 'styled-components';
+import Search from './Search.tsx';
+import SearchResults from './searchResults';
 
 const StyledApp = styled.div`
   // Your style here
@@ -28,13 +30,20 @@ export default function App(){
 
     return (
         <>
-            <input
+        <Search 
+            value={value}
+            setValue={setValue}
+        />
+        <SearchResults filteredData={filteredData} />
+
+
+            {/* <input
                 value={value}
                 onChange={(e) => setValue(e.target.value)}
             />
             {filteredData.map((item, index) => (
                 <div key={index}>{item}</div>
-            ))}
+            ))} */}
 
 
     
