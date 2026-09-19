@@ -4,3 +4,5 @@ node_modules
 .claude/worktrees
 .claude/settings.local.json
 .DS_Store
+vite.config.*.timestamp*
+vitest.config.*.timestamp*

@@ -56,6 +56,27 @@
     },
     {
       "path": "./apps/accordion"
+    },
+    {
+      "path": "./apps/arrayRotate"
+    },
+    {
+      "path": "./apps/breachAlert"
+    },
+    {
+      "path": "./apps/child-parent"
+    },
+    {
+      "path": "./apps/macdonalds"
+    },
+    {
+      "path": "./apps/todo-list"
+    },
+    {
+      "path": "./apps/weather-app"
+    },
+    {
+      "path": "./apps/tailwind"
     }
   ]
 }

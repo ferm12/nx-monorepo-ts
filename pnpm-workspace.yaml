@@ -2,3 +2,10 @@ packages:
   - 'apps/*'
   - 'node-middleware'
   - 'node-middleware-e2e'
+allowBuilds:
+  '@parcel/watcher': true
+  '@swc/core': true
+  esbuild: true
+  nx: true
+  styled-components: true
+  unrs-resolver: true
